@@ -11,7 +11,7 @@ Me chamo Maurilo Edson e sou estudante de Análise e Desenvolvimento de Sistemas
 - **Curiosidade:** Adoro resolver puzzles!
 
 ## 📫 Contato
-- **LinkedIn:** [Maurilo Edson](https://www.linkedin.com/in/seu-perfil)
+- **LinkedIn:** [Maurilo Edson](www.linkedin.com/in/maurilo-edson)
 - **E-mail:** [mauriloedson@hotmail.com](mailto:mauriloedson@hotmail.com)
 
 ---
