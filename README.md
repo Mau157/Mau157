@@ -10,10 +10,6 @@ Me chamo Maurilo Edson e sou estudante de Análise e Desenvolvimento de Sistemas
 - **Pronomes:** Ele/Dele
 - **Curiosidade:** Adoro resolver puzzles!
 
-## 📫 Contato
-- **LinkedIn:** [Maurilo Edson]([www.linkedin.com/in/maurilo-edson](https://www.linkedin.com/in/maurilo-edson-027367300/))
-- **E-mail:** [mauriloedson@hotmail.com](mailto:mauriloedson@hotmail.com)
-
 ---
 
 Vamos aprender e crescer juntos!
