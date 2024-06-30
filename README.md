@@ -5,7 +5,7 @@ Me chamo Maurilo Edson e sou estudante de Análise e Desenvolvimento de Sistemas
 ## 👋 Sobre mim
 - **Interesses:** Desenvolvimento de software, IA e novas tecnologias.
 - **Aprendendo:** Desenvolvimento POO e boas práticas de programação.
-- **Tecnologias:** Python e Java.
+- **Tecnologias:** Python, Java e C#.
 - **Colaboração:** Projetos open-source focados em inovação tecnológica e educação.
 - **Pronomes:** Ele/Dele
 - **Curiosidade:** Adoro resolver puzzles!
